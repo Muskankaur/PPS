@@ -29,7 +29,7 @@ int main()
     return 0;
 }
 ```
-OUTPUT
+OUTPUT:-
 
 Guru Nanak Dev Engeneering College,
 
@@ -338,6 +338,7 @@ int main()
 OUTPUT:-
 
 Enter the number of multiples of 5 you want:3
+
 5	*	1	=	5
 
 5	*	2	=	10
@@ -404,6 +405,7 @@ int main()
 ```
 OUTPUT:-
 
+Enter the number: 
 
 ### 15) To check whether number is palindrome or not.
 ```C
@@ -427,7 +429,9 @@ int main()
     return 0;
 }
 ```
-![15.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/15.JPG)
+OUTPUT:-
+
+
 ### 16) To check whether a number is prime or not.
 ```C
 #include<stdio.h>
