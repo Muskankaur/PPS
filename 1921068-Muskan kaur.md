@@ -16,7 +16,10 @@ int main()
     return 0;
 }
 ```
-![1.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/01.JPG)
+OUTPUT:-
+
+My name is Muskan Kaur
+
 ### 2) To print College address.
 ```C
 #include<stdio.h>
@@ -26,7 +29,12 @@ int main()
     return 0;
 }
 ```
-![2.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/02.JPG)
+OUTPUT
+
+Guru Nanak Dev Engeneering College,
+Gill Road,
+Ludhiana, Punjab
+
 ### 3) Program to add two integers.
 ```C
 #include<stdio.h>
@@ -35,14 +43,19 @@ int main()
     int a,b,sum;
     printf("Enter the value of first integer: ");
     scanf("%d", &a);
-    printf("Enter the value of second integer: ");
+    printf("\nEnter the value of second integer: ");
     scanf("%d", &b);
     sum = a + b;
-    printf("Sum is %d", sum);
+    printf("\nSum is %d", sum);
     return 0;
 }
 ```
-![3.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/03.JPG)
+OUTPUT:-
+
+Enter the value of first integer: 53
+Enter the value of second integer: 7
+Sum is 60
+
 ### 4) Program to find quotient and remainder.
 ```C
 #include<stdio.h>
@@ -51,16 +64,23 @@ int main()
     int divisor, dividend, quotient, remainder;
     printf("Enter the value of divisor: ");
     scanf("%d", &divisor);
-    printf("Enter the value of dividend: ");
+    printf("\nEnter the value of dividend: ");
     scanf("%d", &dividend);
     quotient = dividend/divisor;
     remainder = dividend%divisor; 
-    printf("Qoutient is %d\n", quotient);
+    printf("\nQoutient is %d\n", quotient);
     printf("Remainder is %d", remainder);
     return 0;
 }
 ```
-![4.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/04.JPG)
+
+OUTPUT:-
+
+Enter the value of divisor:2
+Enter the value of dividend:82
+Quotient is 41
+Remainder is 0
+
 ### 5) Program to swap two variables without 3rd variable.
 ```C
 #include<stdio.h>
@@ -69,7 +89,7 @@ int main()
     int a,b;
     printf("Enter the value of a = ");
     scanf("%d", &a);
-    printf("Enter the value of b = ");
+    printf("\nEnter the value of b = ");
     scanf("%d", &b);
     a = a + b;
     b = a - b;
@@ -79,7 +99,16 @@ int main()
     return 0;
 }
 ```
-![5.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/05.JPG)
+OUTPUT:-
+
+Enter the value of a = 3
+Enter the value of b = 4
+                         
+			  After Swap
+
+Value of a = 4
+Value of b = 3
+
 ### 6) Program to check even odd number.
 ```C
 #include<stdio.h>
@@ -89,13 +118,17 @@ int main()
     printf("Enter the number: ");
     scanf("%d", &number);
     if (number % 2 == 0)
-    printf("Number is Even");
+    printf("\nNumber is Even");
     else
-    printf("Number is Odd");
+    printf("\nNumber is Odd");
     return 0;
 }
 ```
-![6.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/06.JPG)
+OUTPUT:-
+
+Enterthe number: 56
+Number is Even
+
 ### 7) Finding greteast of two numbers.
 ```C
 #include<stdio.h>
@@ -104,16 +137,21 @@ int main()
     int num1, num2;
     printf("Enter the first number: ");
     scanf("%d", &num1);
-    printf("Enter the second number: ");
+    printf("\nEnter the second number: ");
     scanf("%d", &num2);
     if (num1 > num2)
-    printf("First Number is Greatest i.e %d", num1);
+    printf("\nFirst Number is Greatest i.e %d", num1);
     else
-    printf("Second Number is Greatest i.e %d", num2); 
+    printf("\nSecond Number is Greatest i.e %d", num2); 
     return 0;
 }
 ```
-![7.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/07.JPG)
+OUTPUT:-
+
+Enter the first number:56
+Enter the second number:69
+Second Number is Greatest i.e 69
+
 ### 8) Find greatest of three number .
 ```C
 #include<stdio.h>
@@ -122,38 +160,44 @@ int main()
     int a,b,c;
     printf("Enter the value of a ");
     scanf("%d", &a);
-    printf("Enter the value of b ");
+    printf("\nEnter the value of b ");
     scanf("%d", &b);
-    printf("Enter the value of c ");
+    printf("\nEnter the value of c ");
     scanf("%d", &c);
     if (a>b)
     {
         if(a > c)
-        printf("a is the greatest");
+        printf("\na is the greatest");
         else
-        printf("c is the greatest");
+        printf("\nc is the greatest");
     }
     else
     {
         if (b > c)
-        printf("b is the greatest");
+        printf("\nb is the greatest");
         else
-        printf("c is the greatest");
+        printf("\nc is the greatest");
         
     }
     return 0;
     
 }
 ```
-![8.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/08.JPG)
+OUTPUT:-
+
+Enter the value of a 99
+Enter the value of b 45
+Enter the value of c 67
+a is the greatest
+
 ### 9) Program to assign grade to student according to percentage.
 ```C
 #include<stdio.h>
 int main()
 {
     int marks;
-    printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nSchema for marks and grades\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nMarks\tGrade\n0-30\tF\n31-50\tD\n51-70\tC\n71-80\tB\n81-90\tA2\n91-100\tA1\n");
-    printf("Enter is the marks (Out of 100): ");
+    printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nScheme for marks and grades\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nMarks\tGrade\n0-30\tF\n31-50\tD\n51-70\tC\n71-80\tB\n81-90\tA2\n91-100\tA1\n");
+    printf("Enter the marks (Out of 100): ");
     scanf("%d", &marks);
     if (marks>=0)
     {
@@ -187,7 +231,18 @@ int main()
     return 0;
 }
 ```
-![9.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/09.JPG)
+OUPUT:-
+                                        Scheme for marks and grade
+Marks	Grade
+0-30	F
+31-50	D
+51-70	C
+71-80	B
+81-90	A2
+91-100	A1
+Enter the marks (Out of 100): 88
+Grade is A2
+
 ### 10) Program to print roots of quadratic equation.
 ```C
 #include<stdio.h>
@@ -195,20 +250,28 @@ int main()
 int main()
 {
     int a,b,c,root1,root2;
-    printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nSchema of a Quadratic Equation is a(x^2) + b(x) + c = 0\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
-    printf("Enter is value of a ");
+    printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nScheme of a Quadratic Equation is a(x^2) + b(x) + c = 0\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
+    printf("Enter the value of a ");
     scanf("%d", &a);
-    printf("Enter is value of b ");
+    printf("Enter the value of b ");
     scanf("%d", &b);
-    printf("Enter is value of c ");
+    printf("Enter the value of c ");
     scanf("%d", &c);
-    root1 = ((-b) + sqrt((b*b) - (4*a*c)))/(2*a);
+    root1 = ((-b) + sqrt((b*b) - (4*a*c)))/(2*a);nter thr
     root2 = ((-b) - sqrt((b*b) - (4*a*c)))/(2*a);
     printf("Roots are %d and %d", root1,root2);
     return 0;
 }
 ```
-![10.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/10.JPG)
+OUTPUT:-
+
+scheme of a Quadratic Equation is a(x^2) + b(x) + c = 0
+
+Enter the value of a 2
+Enter the value of b -11
+Enter the value of c 5
+Roots are 23 and -17
+
 ### 11) Program to check year is leap or not.
 ```C
 #include<stdio.h>
@@ -224,7 +287,11 @@ int main()
     return 0;
 }
 ```
-![11.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/11.JPG)
+OUTPUT:-
+
+Enter the year:2019
+2019 is not a Leap Year
+
 ### 12) Program to print table of 5.
 ```C
 #include<stdio.h>
@@ -240,7 +307,13 @@ int main()
     return 0;
 }
 ```
-![12.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/12.JPG)
+OUTPUT:-
+
+Enter the number of multiples of 5 you want:3
+5	*	1	=	5
+5	*	2	=	10
+5	*	3	=	15
+
 ### 13) To make simple calculator using switch case.
 ```C
 #include<stdio.h>
@@ -273,7 +346,7 @@ int main()
     return 0;
 }
 ```
-![13.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/13.JPG)
+
 ### 14) To calculate reverse of a number.
 ```C
 #include<stdio.h>
