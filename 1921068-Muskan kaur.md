@@ -32,7 +32,9 @@ int main()
 OUTPUT
 
 Guru Nanak Dev Engeneering College,
+
 Gill Road,
+
 Ludhiana, Punjab
 
 ### 3) Program to add two integers.
@@ -53,7 +55,9 @@ int main()
 OUTPUT:-
 
 Enter the value of first integer: 53
+
 Enter the value of second integer: 7
+
 Sum is 60
 
 ### 4) Program to find quotient and remainder.
@@ -77,8 +81,11 @@ int main()
 OUTPUT:-
 
 Enter the value of divisor:2
+
 Enter the value of dividend:82
+
 Quotient is 41
+
 Remainder is 0
 
 ### 5) Program to swap two variables without 3rd variable.
@@ -102,11 +109,14 @@ int main()
 OUTPUT:-
 
 Enter the value of a = 3
+
 Enter the value of b = 4
                          
 			  After Swap
 
+
 Value of a = 4
+
 Value of b = 3
 
 ### 6) Program to check even odd number.
@@ -127,6 +137,7 @@ int main()
 OUTPUT:-
 
 Enterthe number: 56
+
 Number is Even
 
 ### 7) Finding greteast of two numbers.
@@ -149,7 +160,9 @@ int main()
 OUTPUT:-
 
 Enter the first number:56
+
 Enter the second number:69
+
 Second Number is Greatest i.e 69
 
 ### 8) Find greatest of three number .
@@ -186,8 +199,11 @@ int main()
 OUTPUT:-
 
 Enter the value of a 99
+
 Enter the value of b 45
+
 Enter the value of c 67
+
 a is the greatest
 
 ### 9) Program to assign grade to student according to percentage.
@@ -234,13 +250,21 @@ int main()
 OUPUT:-
                                         Scheme for marks and grade
 Marks	Grade
+
 0-30	F
+
 31-50	D
+
 51-70	C
+
 71-80	B
+
 81-90	A2
+
 91-100	A1
+
 Enter the marks (Out of 100): 88
+
 Grade is A2
 
 ### 10) Program to print roots of quadratic equation.
@@ -268,8 +292,11 @@ OUTPUT:-
 scheme of a Quadratic Equation is a(x^2) + b(x) + c = 0
 
 Enter the value of a 2
+
 Enter the value of b -11
+
 Enter the value of c 5
+
 Roots are 23 and -17
 
 ### 11) Program to check year is leap or not.
@@ -290,6 +317,7 @@ int main()
 OUTPUT:-
 
 Enter the year:2019
+
 2019 is not a Leap Year
 
 ### 12) Program to print table of 5.
@@ -311,7 +339,9 @@ OUTPUT:-
 
 Enter the number of multiples of 5 you want:3
 5	*	1	=	5
+
 5	*	2	=	10
+
 5	*	3	=	15
 
 ### 13) To make simple calculator using switch case.
@@ -321,7 +351,7 @@ int main()
 {
     double num1,num2;
     char operator;
-    printf("Select the Operator (+ - * /)");
+    printf("Select the Operator (+ - * /): ");
     scanf("%c", &operator);
     printf("\nEnter the numbers: ");
     scanf("%lf %lf", &num1,&num2);
@@ -346,6 +376,13 @@ int main()
     return 0;
 }
 ```
+OUTPUT:-
+
+Select the Operator (+ - * /): -
+
+Enter the numbers: 6 2
+
+6 - 2 = 4
 
 ### 14) To calculate reverse of a number.
 ```C
@@ -365,7 +402,9 @@ int main()
     return 0;
 }
 ```
-![14.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/14.JPG)
+OUTPUT:-
+
+
 ### 15) To check whether number is palindrome or not.
 ```C
  #include<stdio.h>
