@@ -1,10 +1,10 @@
 ![College  Logo](https://www.gndec.ac.in/logo.png)
 
 # **Programming for Problem Solving**
-## **Name:- Konark Lohat**
-## **CRN:-1915328**
-## **Branch:- CSE-C1**
-## **Submitted To:- Ms. Goldendeep Kaur**
+## **Name:- MUSKAN KAUR**
+## **CRN:-1921068**
+## **Branch:- IT-B1**
+## **Submitted To:- Prof.Kamaldeep Kaur Dhillon**
 ---
 
 ### 1) To print name.
@@ -12,9 +12,7 @@
 #include<stdio.h>
 int main()
 {
-    puts("~~~~~~~~~~~~~~~~~~~~~~~~~");
-    puts("My name is Konark Lohat");
-    puts("~~~~~~~~~~~~~~~~~~~~~~~~~");
+    puts("My name is Muskan Kaur");
     return 0;
 }
 ```
@@ -948,27 +946,19 @@ int main()
 ```
 ![32_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/32.JPG)
 ![32_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/32_cont.JPG)
-### 33) Programs to compute the transpose of a matrix.
+### 33) Programs to print table of any number.
 ```C
 #include<stdio.h>
 int main()
 {
-    int m1[3][3]={{1,1,1},{2,2,2},{3,3,3}}, m1t[3][3], i,j;
-    for (i=0; i<3; i++)
-    {
-        for (j=0; j<3; j++)
-        {
-            m1t[j][i] = m1[i][j];
-        }
-    }
-    for (j=0; j<3; j++)
-    {
-        for (i=0; i<3; i++)
-        {
-            printf("%d", m1[i][j]);
-        }
-        printf("\n");
-    }
+    int n;
+    printf("Enter the Number = ");
+    	scanf("%d",&n);
+	for(int i=0; i<=10; i++)
+		{
+		 printf("\n");
+		 printf("%d * %d = %d\n",n,i,n*i);
+		}
     return 0;
 }
 ```
