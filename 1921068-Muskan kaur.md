@@ -433,7 +433,7 @@ int main()
 ```
 OUTPUT:-
 
-### Enterthe number: 454
+### Enter the number: 454
 
 ### Number is a pallindrome
 
