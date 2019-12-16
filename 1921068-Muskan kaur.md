@@ -8,7 +8,7 @@
 ## **Submitted To:- Prof. Kamaldeep Kaur Dhillon**
 ---
 
-### 1) To print name.
+### 1) *To print name.
 ```C
 #include<stdio.h>
 int main()
@@ -21,7 +21,7 @@ OUTPUT:-
 
 ### My name is Muskan Kaur
 
-### 2) To print College address.
+### 2) *To print College address.
 ```C
 #include<stdio.h>
 int main()
@@ -38,7 +38,7 @@ OUTPUT:-
 
 ### Ludhiana, Punjab
 
-### 3) Program to add two integers.
+### 3) *Program to add two integers.
 ```C
 #include<stdio.h>
 int main()
@@ -61,7 +61,7 @@ OUTPUT:-
 
 ### Sum is 60
 
-### 4) Program to find quotient and remainder.
+### 4) *Program to find quotient and remainder.
 ```C
 #include<stdio.h>
 int main()
@@ -89,7 +89,7 @@ OUTPUT:-
 
 ### Remainder is 0
 
-### 5) Program to swap two variables without 3rd variable.
+### 5) *Program to swap two variables without 3rd variable.
 ```C
 #include<stdio.h>
 int main()
@@ -120,7 +120,7 @@ OUTPUT:-
 
 ### Value of b = 3
 
-### 6) Program to check even odd number.
+### 6) *Program to check even odd number.
 ```C
 #include<stdio.h>
 int main()
@@ -141,7 +141,7 @@ OUTPUT:-
 
 ### Number is Even
 
-### 7) Finding greteast of two numbers.
+### 7) *Finding greteast of two numbers.
 ```C
 #include<stdio.h>
 int main()
@@ -166,7 +166,7 @@ OUTPUT:-
 
 ### Second Number is Greatest i.e 69
 
-### 8) Find greatest of three number .
+### 8) *Find greatest of three number .
 ```C
 #include<stdio.h>
 int main()
@@ -207,7 +207,7 @@ OUTPUT:-
 
 ### a is the greatest
 
-### 9) Program to assign grade to student according to percentage.
+### 9) *Program to assign grade to student according to percentage.
 ```C
 #include<stdio.h>
 int main()
@@ -268,7 +268,7 @@ OUPUT:-
 
 ### Grade is A2
 
-### 10) Program to print roots of quadratic equation.
+### 10) *Program to print roots of quadratic equation.
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -300,7 +300,7 @@ OUTPUT:-
 
 ### Roots are 23 and -17
 
-### 11) Program to check year is leap or not.
+### 11) *Program to check year is leap or not.
 ```C
 #include<stdio.h>
 int main()
@@ -321,7 +321,7 @@ OUTPUT:-
 
 ### 2019 is not a Leap Year
 
-### 12) Program to print table of 5.
+### 12) *Program to print table of 5.
 ```C
 #include<stdio.h>
 int main()
@@ -346,7 +346,7 @@ OUTPUT:-
 
 ### 5	*	3	=	15
 
-### 13) To make simple calculator using switch case.
+### 13) *To make simple calculator using switch case.
 ```C
 #include<stdio.h>
 int main()
@@ -386,7 +386,7 @@ OUTPUT:-
 
 ### 6 - 2 = 4
 
-### 14) To calculate reverse of a number.
+### 14) *To calculate reverse of a number.
 ```C
 #include<stdio.h>
 int main()
@@ -409,7 +409,7 @@ OUTPUT:-
 ### Enter the number: 4556
 ### Reverse of the Entered Number is  6554
 
-### 15) To check whether number is palindrome or not.
+### 15) *To check whether number is palindrome or not.
 ```C
  #include<stdio.h>
 int main()
@@ -437,7 +437,7 @@ OUTPUT:-
 
 ### Number is a pallindrome
 
-### 16) To check whether a number is prime or not.
+### 16) *To check whether a number is prime or not.
 ```C
 #include<stdio.h>
 int main()
@@ -469,7 +469,7 @@ OUTPUT:-
 
 ### Number is not a Prime Number
 
-### 17) Program to print prime numbers from 1 to 100.
+### 17) *Program to print prime numbers from 1 to 100.
 ```C
 #include <stdio.h>
  
@@ -503,7 +503,7 @@ int main()
  
  ### 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
  
-### 18) Program to check whether a number is armstrong or not.
+### 18) *Program to check whether a number is armstrong or not.
 ```C
 #include<stdio.h>
 int main()
@@ -532,7 +532,7 @@ OUTPUT:-
 
 ### Number is an Armstrong Number
 
-### 19) Print the following patterns:
+### 19) *Print the following patterns:
 ### i) Pattern 1. 
 ```C
 #include<stdio.h>
@@ -624,7 +624,7 @@ OUTPUT:-
 
 ### 1234321
 
-### 20) Program to find largest from 1 dimensional array.
+### 20) *Program to find largest from 1 dimensional array.
 ```C 
 #include<stdio.h>
 int main()
@@ -660,7 +660,7 @@ OUTPUT:-
 
 ### Largest element = 50
 
-### 21) To find sumof the N natural numbers in an array.
+### 21) *To find sumof the N natural numbers in an array.
 ```C
 #include<stdio.h>
 int main()
@@ -693,7 +693,7 @@ OUTPUT:-
 
 ### Sum of above array elements is 10
 
-### 22) Program to add two matrices .
+### 22) *Program to add two matrices .
 ```C
 #include<stdio.h>
 int main() 
@@ -737,7 +737,7 @@ OUTPUT:-
 
 ### 8 8 8 8 
 
-### 23) Program to multiply two matrices .
+### 23) *Program to multiply two matrices .
 ```C
 #include<stdio.h>
 int main() 
@@ -784,7 +784,7 @@ OUTPUT:-
 
 ### 40 40 40 40 
 
-### 24) Program to check whether  a string is palindrome or not .
+### 24) *Program to check whether  a string is palindrome or not .
 ```C
 #include<stdio.h>
 #include<string.h>
@@ -814,7 +814,7 @@ OUTPUT:-
 
 ### It is a palindtome
 
-### 25) Programs to perform basic operations like length of string, string concatenation, sting copy, string compare and string reverse.
+### 25) *Programs to perform basic operations like length of string, string concatenation, sting copy, string compare and string reverse.
 ```C
 #include<stdio.h>
 #include<string.h>
@@ -955,7 +955,7 @@ OUTPUT:-
 
 ### Press any key to continue . . .
 
-### 27) Program to calculate factorial of a number with and without recursion both.
+### 27) *Program to calculate factorial of a number with and without recursion both.
 ```C
 /* Recursion */
 
@@ -1005,7 +1005,7 @@ OUTPUT:-
 
 ### Factorial of 4 is 24
 
-### 28) Program to print fibonacci series with and without recursion both.
+### 28) *Program to print fibonacci series with and without recursion both.
 ```C
 #include<stdio.h>
 int fib(int j);
@@ -1070,7 +1070,7 @@ OUTPUT:-
 
 ### 1
 
-### 29) Program to calculate average of 5 numbers using function.
+### 29) *Program to calculate average of 5 numbers using function.
 ```C
 #include<stdio.h>
 int average();
@@ -1103,7 +1103,7 @@ OUTPUT:-
 
 ### Average is 11
 
-### 30) Program to implement linear serach and binary.
+### 30) *Program to implement linear serach and binary.
 
 ### Linear Search Program
 ```C
@@ -1134,7 +1134,7 @@ int main()
 ```
 OUTPUT:-
 
-### Enetr the numbers you want to enter: 
+### Enter the numbers you want to enter: 
 
 ### 8
 
@@ -1203,7 +1203,7 @@ OUTPUT:-
 
 ### 2 is found and present at 2
 
-### 31) Program to implement bubble sort.
+### 31) *Program to implement bubble sort.
 ```C
 #include <stdio.h>
  
@@ -1270,7 +1270,7 @@ OUTPUT:-
 
 ### 7
 
-### 32) Program to store information of 10 students using array of structures.
+### 32) *Program to store information of 10 students using array of structures.
 ```C
 #include<stdio.h>
 struct student 
@@ -1474,7 +1474,7 @@ OUTPUT:-
 
 ###
 
-### 33) Programs to print table of any number.
+### 33) *Programs to print table of any number.
 ```C
 #include<stdio.h>
 int main()
@@ -1538,7 +1538,7 @@ OUTPUT:-
 
 ### 187 * 10 = 1870
 
-### 34) Program to print the address of variable using pointer.
+### 34) *Program to print the address of variable using pointer.
 ```C
 #include <stdio.h>
 
@@ -1578,7 +1578,7 @@ OUTPUT:-
 
 ### [pt ]:Value of pt = 0x7ffde0534e8c
 
-### 35) Program to access array using pointer.
+### 35) *Program to access array using pointer.
 ```C
 int main()
 {
