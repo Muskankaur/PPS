@@ -3,8 +3,9 @@
 # **Programming for Problem Solving**
 ## **Name:- MUSKAN KAUR**
 ## **CRN:-1921068**
+## **URN:-1905365**
 ## **Branch:- IT-B1**
-## **Submitted To:- Prof.Kamaldeep Kaur Dhillon**
+## **Submitted To:- Prof. Kamaldeep Kaur Dhillon**
 ---
 
 ### 1) To print name.
@@ -18,7 +19,7 @@ int main()
 ```
 OUTPUT:-
 
-My name is Muskan Kaur
+### My name is Muskan Kaur
 
 ### 2) To print College address.
 ```C
@@ -31,11 +32,11 @@ int main()
 ```
 OUTPUT:-
 
-Guru Nanak Dev Engeneering College,
+### Guru Nanak Dev Engeneering College,
 
-Gill Road,
+### Gill Road,
 
-Ludhiana, Punjab
+### Ludhiana, Punjab
 
 ### 3) Program to add two integers.
 ```C
@@ -54,11 +55,11 @@ int main()
 ```
 OUTPUT:-
 
-Enter the value of first integer: 53
+### Enter the value of first integer: 53
 
-Enter the value of second integer: 7
+### Enter the value of second integer: 7
 
-Sum is 60
+### Sum is 60
 
 ### 4) Program to find quotient and remainder.
 ```C
@@ -80,13 +81,13 @@ int main()
 
 OUTPUT:-
 
-Enter the value of divisor:2
+### Enter the value of divisor:2
 
-Enter the value of dividend:82
+### Enter the value of dividend:82
 
-Quotient is 41
+### Quotient is 41
 
-Remainder is 0
+### Remainder is 0
 
 ### 5) Program to swap two variables without 3rd variable.
 ```C
@@ -108,16 +109,16 @@ int main()
 ```
 OUTPUT:-
 
-Enter the value of a = 3
+### Enter the value of a = 3
 
-Enter the value of b = 4
+### Enter the value of b = 4
                          
 			  After Swap
 
 
-Value of a = 4
+### Value of a = 4
 
-Value of b = 3
+### Value of b = 3
 
 ### 6) Program to check even odd number.
 ```C
@@ -136,9 +137,9 @@ int main()
 ```
 OUTPUT:-
 
-Enterthe number: 56
+### Enter the number: 56
 
-Number is Even
+### Number is Even
 
 ### 7) Finding greteast of two numbers.
 ```C
@@ -159,11 +160,11 @@ int main()
 ```
 OUTPUT:-
 
-Enter the first number:56
+### Enter the first number:56
 
-Enter the second number:69
+### Enter the second number:69
 
-Second Number is Greatest i.e 69
+### Second Number is Greatest i.e 69
 
 ### 8) Find greatest of three number .
 ```C
@@ -198,13 +199,13 @@ int main()
 ```
 OUTPUT:-
 
-Enter the value of a 99
+### Enter the value of a 99
 
-Enter the value of b 45
+### Enter the value of b 45
 
-Enter the value of c 67
+### Enter the value of c 67
 
-a is the greatest
+### a is the greatest
 
 ### 9) Program to assign grade to student according to percentage.
 ```C
@@ -249,23 +250,23 @@ int main()
 ```
 OUPUT:-
                                         Scheme for marks and grade
-Marks	Grade
+### Marks		Grade
 
-0-30	F
+### 0-30		F
 
-31-50	D
+### 31-50		D
 
-51-70	C
+### 51-70		C
 
-71-80	B
+### 71-80		B
 
-81-90	A2
+### 81-90		A2
 
-91-100	A1
+### 91-100		A1
 
-Enter the marks (Out of 100): 88
+### Enter the marks (Out of 100): 88
 
-Grade is A2
+### Grade is A2
 
 ### 10) Program to print roots of quadratic equation.
 ```C
@@ -289,15 +290,15 @@ int main()
 ```
 OUTPUT:-
 
-scheme of a Quadratic Equation is a(x^2) + b(x) + c = 0
+### Scheme of a Quadratic Equation is a(x^2) + b(x) + c = 0
 
-Enter the value of a 2
+### Enter the value of a 2
 
-Enter the value of b -11
+### Enter the value of b -11
 
-Enter the value of c 5
+### Enter the value of c 5
 
-Roots are 23 and -17
+### Roots are 23 and -17
 
 ### 11) Program to check year is leap or not.
 ```C
@@ -316,9 +317,9 @@ int main()
 ```
 OUTPUT:-
 
-Enter the year:2019
+### Enter the year:2019
 
-2019 is not a Leap Year
+### 2019 is not a Leap Year
 
 ### 12) Program to print table of 5.
 ```C
@@ -337,13 +338,13 @@ int main()
 ```
 OUTPUT:-
 
-Enter the number of multiples of 5 you want:3
+### Enter the number of multiples of 5 you want:3
 
-5	*	1	=	5
+### 5	*	1	=	5
 
-5	*	2	=	10
+### 5	*	2	=	10
 
-5	*	3	=	15
+### 5	*	3	=	15
 
 ### 13) To make simple calculator using switch case.
 ```C
@@ -379,11 +380,11 @@ int main()
 ```
 OUTPUT:-
 
-Select the Operator (+ - * /): -
+### Select the Operator (+ - * /): -
 
-Enter the numbers: 6 2
+### Enter the numbers: 6 2
 
-6 - 2 = 4
+### 6 - 2 = 4
 
 ### 14) To calculate reverse of a number.
 ```C
@@ -405,7 +406,8 @@ int main()
 ```
 OUTPUT:-
 
-Enter the number: 
+### Enter the number: 4556
+### Reverse of the Entered Number is  6554
 
 ### 15) To check whether number is palindrome or not.
 ```C
@@ -431,6 +433,9 @@ int main()
 ```
 OUTPUT:-
 
+### Enterthe number: 454
+
+### Number is a pallindrome
 
 ### 16) To check whether a number is prime or not.
 ```C
@@ -458,7 +463,12 @@ int main()
     }
 }
 ```
-![16.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/16.JPG)
+OUTPUT:-
+
+### Enter the number: 15
+
+### Number is not a Prime Number
+
 ### 17) Program to print prime numbers from 1 to 100.
 ```C
 #include <stdio.h>
@@ -487,7 +497,12 @@ int main()
   return 0;
 } 
  ``` 
- ![17.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/17.JPG)
+ OUTPUT:-
+ 
+ ### Prime Number from 1 to 100 are:
+ 
+ ### 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+ 
 ### 18) Program to check whether a number is armstrong or not.
 ```C
 #include<stdio.h>
@@ -504,14 +519,19 @@ int main()
         number = number/10;
     }
     if (original_number == sum)
-    printf("Number is a Armstrong Number");
+    printf("Number is an Armstrong Number");
     else 
-    printf("Number is not a Amrstrong Number");
+    printf("Number is not an Amrstrong Number");
     return 0;
 }
 
 ```
-![18.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/18.JPG)
+OUTPUT:-
+
+### Enter the Number: 153
+
+### Number is an Armstrong Number
+
 ### 19) Print the following patterns:
 ### i) Pattern 1. 
 ```C
@@ -530,7 +550,17 @@ int main()
     return 0;
 }
 ```
-![19_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/19a.JPG)
+OUTPUT:-
+
+### 1
+
+### 12
+
+### 123
+
+### 1234
+
+### 12345
 
 ### ii) Pattern 2.
 ```C
@@ -549,7 +579,15 @@ int main()
     return 0;
 }
 ``` 
-![19_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/19b.JPG)
+OUTPUT:-
+
+### 1
+
+### 23
+
+### 456
+
+### 78910
 
 ### iii) Pattern 3.
 ```C
@@ -576,7 +614,16 @@ int main()
     return 0;
 }
 ``` 
-![19_3.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/19c.JPG)
+OUTPUT:-
+
+###    1
+
+###   121
+
+###  12321
+
+### 1234321
+
 ### 20) Program to find largest from 1 dimensional array.
 ```C 
 #include<stdio.h>
@@ -597,7 +644,21 @@ int main()
     return 0;
 }
 ```
-![20.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/20.JPG)
+OUTPUT:-
+
+### Enter Number 0: 3
+
+### Enter Number 1: 4
+
+### Enter Number 2: 50
+
+### Enter Number 3: 30
+
+### Enter Number 4: 45
+
+### Enter Number 5: 30
+
+### Largest element = 50
 
 ### 21) To find sumof the N natural numbers in an array.
 ```C
@@ -620,7 +681,17 @@ int main()
     return 0;
 }
 ```
-![21.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/21.JPG)
+OUTPUT:-
+
+### Enter the number of elements you want to input(From 1 to 1000): 3
+
+### Enter Element 1: 2
+
+### Enter Element 2: 7
+
+### Enter Element 3: 1
+
+### Sum of above array elements is 10
 
 ### 22) Program to add two matrices .
 ```C
@@ -654,7 +725,18 @@ int main()
     return 0; 
 }
 ```
-![22.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/22.JPG)
+OUTPUT:-
+
+### Result matrix is
+
+### 2 2 2 2 
+
+### 4 4 4 4 
+
+### 6 6 6 6 
+
+### 8 8 8 8 
+
 ### 23) Program to multiply two matrices .
 ```C
 #include<stdio.h>
@@ -690,7 +772,18 @@ int main()
     return 0; 
 } 
 ```
-![23.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/23.JPG)
+OUTPUT:-
+
+### Result matrix is
+
+### 10 10 10 10 
+
+### 20 20 20 20 
+
+### 30 30 30 30 
+
+### 40 40 40 40 
+
 ### 24) Program to check whether  a string is palindrome or not .
 ```C
 #include<stdio.h>
@@ -699,7 +792,7 @@ int main()
 {
     int a,b,c,shit=0;
     char str[9]; 
-    printf("Enter the string you want to check");
+    printf("Enter the string you want to check ");
     scanf("%s", str);
     for (a=0; a<strlen(str); a++)
     {
@@ -715,7 +808,12 @@ int main()
     return 0;
 }
 ```
-![24.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/24.JPG)
+OUTPUT:-
+
+### Enter the string you want to check 121
+
+### It is a palindtome
+
 ### 25) Programs to perform basic operations like length of string, string concatenation, sting copy, string compare and string reverse.
 ```C
 #include<stdio.h>
@@ -738,7 +836,24 @@ int main()
     return 0;
 }
 ```
-![25.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/25.JPG)
+OUTPUT:-
+
+### Enter the string 1 (MAX. is 10 Elements): muskan
+
+### Enter the string 2 (MAX. is 10 Elements): kaur
+
+### Entered strings are not same
+
+### Length of string 1 and string 2 is 6 and 4 respectively
+
+### Concatenated string is muskankaur
+
+### New Copied string from string 2 by strcpy() is kaur
+
+### Reverse of string 2 is ruak
+
+### Press any key to continue . . . 
+
 ### 26) Programs to swap two numbers using call by value and call by refernce.
 
 ### Call by reference
@@ -773,7 +888,16 @@ void swap(int *a, int *b)
    *a = temp;
 }
 ```
-![26_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/26.JPG)
+OUTPUT:-
+
+### Enter the value of a: 45
+
+### Enter the value of b: 54
+
+### Values before swapping are a=45 and b=54
+
+### Values after swapping are a=54 and b=45
+
 ### call by value:- 
 ```C
 /* Call by value */
@@ -807,8 +931,30 @@ void swap(int a, int b) {
     printf("Values of a and b is %d  %d\n",a,b);
 }
 ```
-![26_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/26b.JPG)
-   
+OUTPUT:-
+
+### Enter the value of x and y
+
+### 4
+
+### 5
+
+### Before Swapping
+
+### x = 4
+
+### y = 5
+
+### Values of a and b is 5 4 
+
+### After Swapping    
+
+### x = 4
+
+### y = 5
+
+### Press any key to continue . . .
+
 ### 27) Program to calculate factorial of a number with and without recursion both.
 ```C
 /* Recursion */
@@ -831,7 +977,12 @@ long long int factorial(long long int x)
     return 1;
 }
 ```
-![27_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/27a.JPG)
+OUTPUT:-
+
+### Enter the number of which you want to know the factorial: 5
+
+### Factorial of the Entered Number is 120
+
 
 ```C
 #include<stdio.h>
@@ -848,7 +999,11 @@ int main()
     return 0;
 }
 ```
-![27_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/27b.JPG)
+OUTPUT:-
+
+### Enter the number: 4 
+
+### Factorial of 4 is 24
 
 ### 28) Program to print fibonacci series with and without recursion both.
 ```C
@@ -862,7 +1017,7 @@ int main()
     printf("Fibonacci Series upto %d terms are: ", n);
     for (i=1; i<=n; i++)
     {
-        printf("%d\n", fib(j));
+        printf("\n%d\n", fib(j));
         j++;
     }
     return 0;
@@ -875,7 +1030,22 @@ int fib(int j)
     return (fib(j-1) + fib(j-2));
 }
 ```
-![28_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/28a.JPG)
+OUTPUT:-
+
+### Enter the Number of terms you want to print: 5
+
+### Fibonacci upto 5 terms are: 
+
+### 0
+
+### 1
+
+### 1
+
+### 2
+
+### 3
+
 ```C
 #include<stdio.h>
 int main()
@@ -890,7 +1060,15 @@ int main()
     } 
 }
 ```
-![28_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/28b.JPG)
+OUTPUT:-
+
+### Enter the Number upto which you want to print the fibonacci series3
+
+### 0
+
+### 1
+
+### 1
 
 ### 29) Program to calculate average of 5 numbers using function.
 ```C
@@ -900,7 +1078,7 @@ int main()
 {
     int a,b,c,d,e;
     printf("Enter the 5 values of whom you want to calculate average");
-    scanf("%d %d %d %d %d", &a,&b,&c,&d,&e);
+    scanf("\n%d %d %d %d %d", &a,&b,&c,&d,&e);
     printf("Average is %d", average(a,b,c,d,e));
     return 0;
 }
@@ -909,7 +1087,22 @@ int average(int a, int b, int c, int d, int e)
     return ((a+b+c+d+e)/5);
 }
  ```
-![29.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/29.JPG)
+OUTPUT:-
+
+### Enter the 5 values of whom you want to calculate average
+
+### 5
+
+### 5
+
+### 10
+
+### 15
+
+### 20
+
+### Average is 11
+
 ### 30) Program to implement linear serach and binary.
 
 ### Linear Search Program
@@ -918,7 +1111,7 @@ int average(int a, int b, int c, int d, int e)
 int main()
 {
     int a[99999],i,j,s,k;
-    printf("Enter the numbers you want to enter: ");
+    printf("Enter the numbers you want to enter: \n");
     scanf("%d", &i);
     for (j=0; j<i; j++)
     {
@@ -939,7 +1132,24 @@ int main()
     return 0;
 }
 ```
-![30_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/30a.JPG)
+OUTPUT:-
+
+### Enetr the numbers you want to enter: 
+
+### 8
+
+### 1
+
+### 5
+
+### 2
+
+### 7
+
+### Enter the number you want to search5
+
+### 5 is present in this array at 3 location of array
+
 ### Binary Search Program
 ```C
 #include<stdio.h>
@@ -977,8 +1187,21 @@ int main()
     return 0;
 }
 ```
+OUTPUT:-
 
-![30_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/30b.JPG)
+### Enter the value of numbers you want to enter: 3
+
+### Enter those 3 values:
+
+### 4
+
+### 2
+
+### 5
+
+### Enter the number you want to search: 2
+
+### 2 is found and present at 2
 
 ### 31) Program to implement bubble sort.
 ```C
@@ -1017,7 +1240,36 @@ int main()
   return 0;
 }
 ```
-![31.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/31.JPG)
+OUTPUT:-
+
+### Enter number of elements 
+
+### 5
+
+### Enter 5 integers
+
+### 3
+
+### 7
+
+### 4
+
+### 5
+
+### 6
+
+### Sorted list in ascending order:
+
+### 3
+
+### 4
+
+### 5
+
+### 6
+
+### 7
+
 ### 32) Program to store information of 10 students using array of structures.
 ```C
 #include<stdio.h>
@@ -1060,8 +1312,168 @@ int main()
     return 0;
 }
 ```
-![32_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/32.JPG)
-![32_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/32_cont.JPG)
+OUTPUT:-
+
+### Enter the information of students:
+
+###
+
+### For Roll Number 1:
+
+### Enter Name: Muskan
+
+### Enter Age: 18
+
+### Enter Marks: 99
+
+### Enter Sex:F
+
+###
+
+###
+
+###
+
+### For Roll Number 2:
+
+### Enter Name: Julie
+
+### Enter Age: 18
+
+### Enter Marks: 95
+
+### Enter Sex:F
+
+###
+
+###
+
+###
+
+### For Roll Number 3:
+
+### Enter Name: Jane
+
+### Enter Age: 18
+
+### Enter Marks: 87
+
+### Enter Sex:F
+
+###
+
+###
+
+###
+
+### For Roll Number 4:
+
+### Enter Name: Joe
+
+### Enter Age: 18
+
+### Enter Marks: 69
+
+### Enter Sex:M
+
+###
+
+###
+
+###
+
+### For Roll Number 5:
+
+### Enter Name: Chris
+
+### Enter Age: 18
+
+### Enter Marks: 44
+
+### Enter Sex:M
+
+###
+
+###
+
+###
+
+### Roll Number: 1
+
+### Name: Muskan
+
+### Age: 18
+
+### Marks: 99
+
+### Sex:F
+
+###
+
+###
+
+###
+
+### Roll Number: 2
+
+### Name: Julie
+
+### Age: 18
+
+### Marks: 95
+
+### Sex:F
+
+###
+
+###
+
+###
+
+### Roll Number: 3
+
+### Name: Jane
+
+### Age: 18
+
+### Marks: 87
+
+### Sex:F
+
+###
+
+###
+
+###
+
+### Roll Number: 4
+
+### Name: Joe
+
+### Age: 18
+
+### Marks: 69
+
+### Sex:M
+
+###
+
+###
+
+###
+
+### Roll Number: 5
+
+### Name: Chris
+
+### Age: 18
+
+### Marks: 44
+
+### Sex:M
+
+###
+
 ### 33) Programs to print table of any number.
 ```C
 #include<stdio.h>
@@ -1078,7 +1490,54 @@ int main()
     return 0;
 }
 ```
-![33.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/33.JPG)
+OUTPUT:-
+
+### Enter the Number = 187
+
+### 
+
+### 187 * 0 = 0
+
+###
+
+### 187 * 1 = 187
+
+###
+
+### 187 * 2 = 374
+
+###
+
+### 187 * 3 = 561
+
+###
+
+### 187 * 4 = 748
+
+###
+
+### 187 * 5 = 935
+
+###
+
+### 187 * 6 = 1122
+
+###
+
+### 187 * 7 = 1309
+
+###
+
+### 187 * 8 = 1496
+
+###
+
+### 187 * 9 = 1683
+
+###
+
+### 187 * 10 = 1870
+
 ### 34) Program to print the address of variable using pointer.
 ```C
 #include <stdio.h>
@@ -1101,13 +1560,30 @@ int main() {
   return 0;
 }
 ```
-![34.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/34.JPG)
+OUTPUT:-
+
+### Pointer Example Program : Print Pointer Address
+
+###
+
+### [a ]:Value of A = 10
+
+### [*pt]:Value of A = 10
+
+### [&a ]:Address of A = 0x7ffde0534e8c
+
+### [pt ]:Address of A = 0x7ffde0534e8c
+
+### [&pt]:Address of pt = 0x7ffde0534e80
+
+### [pt ]:Value of pt = 0x7ffde0534e8c
+
 ### 35) Program to access array using pointer.
 ```C
 int main()
 {
    int data[5], i;
-   printf("Enter elements: ");
+   printf("Enter elements: \n");
    for(i = 0; i < 5; ++i)
      scanf("%d", data + i);
    printf("You entered: \n");
@@ -1116,4 +1592,30 @@ int main()
    return 0;
 }
 ```
-![35.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/35.JPG)
+OUTPUT:-
+
+### Enter elements: 
+
+### 4
+
+### 44
+
+### 33
+
+### 22
+
+### 11
+
+### You entered:
+
+### 4
+
+### 44
+
+### 33
+
+### 22
+
+### 11
+
+### *X END OF THE FILE X
